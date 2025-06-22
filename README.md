@@ -29,8 +29,8 @@ We begin by initializing and provisioning a Vagrant Ubuntu server.
 **Screenshot #1: Vagrant Initialization and SSH Login**  
 _Description: The image below shows my screen after `vagrant init` & `vagrant up`, while logging in using `vagrant ssh`._
 
-![Vagrant Init and SSH]()
-![image](https://github.com/user-attachments/assets/f18ac81d-3ce7-4204-9773-58d453ebfc3d)
+![]()
+![Vagrant Init and SSH](https://github.com/user-attachments/assets/f18ac81d-3ce7-4204-9773-58d453ebfc3d)
 
 ---
 
