@@ -29,7 +29,6 @@ We begin by initializing and provisioning a Vagrant Ubuntu server.
 **Screenshot #1: Vagrant Initialization and SSH Login**  
 _Description: The image below shows my screen after `vagrant init` & `vagrant up`, while logging in using `vagrant ssh`._
 
-![]()
 ![Vagrant Init and SSH](https://github.com/user-attachments/assets/f18ac81d-3ce7-4204-9773-58d453ebfc3d)
 
 ---
@@ -41,8 +40,8 @@ We navigate the Linux file system and create a custom folder structure.
 **Screenshot #2: Custom Folder Structure**  
 _Description: This folder structure `/home/vagrant/projects/devops` was created and populated with list.txt and todo.csv. The pwd can be seen._
 
-![Folder Structure](![image](https://github.com/user-attachments/assets/de4f699a-9397-4d9b-8106-fd70188d19ad)
-)
+![Folder Structure](https://github.com/user-attachments/assets/de4f699a-9397-4d9b-8106-fd70188d19ad)
+
 
 ---
 
@@ -53,7 +52,7 @@ We use `chmod` and `chown` to modify file permissions and ownership.
 **Screenshot #3: File Permission and Ownership Changes**  
 _Description: The file `list.txt` was set to `700` while todo.csv was set to '744'._
 
-![Permissions and Ownership](![image](https://github.com/user-attachments/assets/b9e9685a-9955-437f-99ee-4a9eace04d03))
+![Permissions and Ownership](https://github.com/user-attachments/assets/b9e9685a-9955-437f-99ee-4a9eace04d03)
 
 
 ## Installing and Configuring a Package
@@ -63,7 +62,7 @@ We install a common Linux package (e.g., `nginx`) using `apt`.
 **Screenshot #4: Package Installation**  
 _Description: `nginx` was installed successfully using 'sudo apt install nginx'`._
 
-![Package Installation](![image](https://github.com/user-attachments/assets/33b475c6-77e1-4c0a-b5e9-fc4cde2e7858))
+![Package Installation](https://github.com/user-attachments/assets/33b475c6-77e1-4c0a-b5e9-fc4cde2e7858)
 
 ---
 
@@ -74,7 +73,7 @@ We test network connectivity using the `ping` command.
 **Screenshot #5: Ping Test**  
 _Description: Pinging `google.com` confirms external network access. The output shows the response time._
 
-![Ping Test](![image](https://github.com/user-attachments/assets/8cbdc131-418b-4cc2-8bda-d9a8dbb352bc))
+![Ping Test](https://github.com/user-attachments/assets/8cbdc131-418b-4cc2-8bda-d9a8dbb352bc)
 
 ---
 
